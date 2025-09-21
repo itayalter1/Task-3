@@ -1,0 +1,6 @@
+services:
+  gtest:
+    build:
+      context: ./Cpp
+      dockerfile: Dockerfile
+  
